@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private" author="true" classpath="." destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" overview="D:\UTT\LO02\projet\Shape Up\doc\overview.html" packagenames="Vue,Controleur,Modele.shifumi,Modele" source="14" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
